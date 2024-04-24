@@ -1,0 +1,33 @@
+html,
+body {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+  font-size: 14px;
+}
+
+body {
+  margin-bottom: 60px;
+  background-color: #f2f2f2;
+  font-family: 'Comic Sans MS';
+  color: #333;
+}
+
+h1,
+h2 {
+  color: #444;
+  white-space: nowrap;
+}
+
+.t {
+  text-align: center;
+}
+
+h2,
+p {
+  padding: 15px;
+  margin: 0;
+}
