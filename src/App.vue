@@ -6,3 +6,6 @@ import Navbar from './views/HeadView.vue'
   <Navbar />
   <RouterView />
 </template>
+<style>
+@import 'bootstrap/dist/css/bootstrap.css';
+</style>
